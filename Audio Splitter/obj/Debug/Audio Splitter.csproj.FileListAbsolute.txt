@@ -1,0 +1,22 @@
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\bin\Debug\Audio Splitter.exe.config
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\bin\Debug\Audio Splitter.exe
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\bin\Debug\Audio Splitter.pdb
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\obj\Debug\Audio Splitter.csprojResolveAssemblyReference.cache
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\obj\Debug\Audio_Splitter.Form1.resources
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\obj\Debug\Audio_Splitter.Properties.Resources.resources
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\obj\Debug\Audio Splitter.csproj.GenerateResource.Cache
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\obj\Debug\Audio Splitter.exe
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\obj\Debug\Audio Splitter.pdb
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\bin\Debug\NAudio.dll
+c:\users\ooo\documents\visual studio 2015\Projects\Audio Splitter\Audio Splitter\bin\Debug\NAudio.xml
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\bin\Debug\Audio Splitter.exe.config
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\obj\Debug\Audio Splitter.exe
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\obj\Debug\Audio Splitter.pdb
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\bin\Debug\Audio Splitter.exe
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\bin\Debug\Audio Splitter.pdb
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\bin\Debug\NAudio.dll
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\bin\Debug\NAudio.xml
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\obj\Debug\Audio Splitter.csprojResolveAssemblyReference.cache
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\obj\Debug\Audio_Splitter.Form1.resources
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\obj\Debug\Audio_Splitter.Properties.Resources.resources
+C:\Users\ooo\Documents\Programming\CSharp\Audio Splitter\Audio Splitter\obj\Debug\Audio Splitter.csproj.GenerateResource.Cache
